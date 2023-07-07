@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "@react-three/drei": "9.11.3",
+    "@react-three/fiber": "8.0.20",
+    "three": "0.142.0"
+  },
+  "main": "/index.js",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "keywords": [],
+  "name": "3d-sphere",
+  "description": "A ThreeJS R3F simple spinning globe with coloured dots.",
+  "version": "0.0.119",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
